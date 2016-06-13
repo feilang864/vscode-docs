@@ -35,5 +35,6 @@ cd vscode-docs
 code .
 ```
 You can now open any of the Markdown files and easily toggle between preview with the `Open Preview` button in the upper right of the editor.  
-
+ 
+ Thanks
  
